@@ -28,5 +28,5 @@ As seen in below, district summary data has a difference of 0.1 decrease in the 
 
  
 ## Summary:
-Removing the 9th grade scores from Thomas High School has not only negatively impacted their performance reputation, but also cost them any incentives to increase Budgeting for a high success rate. It should also be noted that although the avergae Math & Reading scores appear to be balanced & within good standing compared to other Schools; there was a dramatic decrease in passing percentages, which implies the compromised values of the 9th grade scores served as a significant boost the passing curve even though it accounted for only 1/4 of the school's capacity.
+Removing the 9th grade scores from Thomas High School has not only negatively impacted their performance reputation, but also cost them any incentives to increase Budgeting for a high success rate. It should also be noted that although the avergae Math & Reading scores appear to be balanced & within good standing compared to other Schools; there was a dramatic decrease in passing percentages, which implies the compromised values of the 9th grade scores served as a buffer for the passing curve even though it accounted for only 1/4 of the school's capacity.
 
